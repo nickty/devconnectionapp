@@ -1,4 +1,7 @@
 {
     "mongoURI" : "mongodb+srv://nickty:nickty@cluster0.jfegd.mongodb.net/devconnector?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecrettoken"
+    "jwtSecret" : "mysecrettoken", 
+    "githubClientId" : "ed0c1a68a2968245eef0", 
+    "githubSecret" : "ee59f581844450c2b2c4a628b6f9ccc7430417b1"
+
 }
